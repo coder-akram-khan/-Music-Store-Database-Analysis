@@ -99,7 +99,7 @@ Music-Store-Database-Analysis/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/music-store-analysis.git
+   git clone https://github.com/coder-akram-khan/Music-Store-Database-Analysis
    cd music-store-analysis
    ```
 
